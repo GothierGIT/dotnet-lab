@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="TareasMini/TareasMini.csproj" />
+  <Project Path="VideoGameCharacterApi/VideoGameCharacterApi.csproj" />
 </Solution>
